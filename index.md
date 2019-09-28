@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 没想到吧，这里什么都没有
 
 You can use the [editor on GitHub](https://github.com/KB-Ding/KB-Ding.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
