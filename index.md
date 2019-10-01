@@ -1,5 +1,7 @@
 ## 没想到吧，这里什么都没有
 
+由于我太菜了，所以这里出了模板啥也没有
+
 You can use the [editor on GitHub](https://github.com/KB-Ding/KB-Ding.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
